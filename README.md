@@ -2,7 +2,7 @@
 
 ### Demo:
 
-(soon will be a web page for demo)
+http://minesweeper-demo.s3-website.eu-central-1.amazonaws.com/
 
 
 ### Requirements
@@ -14,6 +14,7 @@
 
 ### Feature
 - Configurable width, height and mines number.
+- "Shift + Click" to add a flag.
 - Remaining flags are shown
 - Smart filling algorithm for mines using placing then shuffling approach. (See code comments)
 - Expanding cells algorithm is iterative to avoid stack overflow on big board (See code comments)
