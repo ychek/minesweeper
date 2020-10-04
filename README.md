@@ -2,7 +2,7 @@
 
 ### Demo:
 
-http://minesweeper-demo.s3-website.eu-central-1.amazonaws.com/
+https://ychek.github.io/minesweeper
 
 
 ### Requirements
